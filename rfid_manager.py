@@ -5,7 +5,8 @@
 # Utility for managing RFID Tags with the Parallax Inc. RFID
 # Reader/Writer #28440 Revision A.
 # Error descriptions taken from Parallax module datasheet
-#
+# 
+# Licensed under MIT 2014
 # 
 import serial
 import time
